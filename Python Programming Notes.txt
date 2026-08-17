@@ -11,7 +11,7 @@ It general purpose language devloped by guido van rossam in 1989
 
 print("This statement display output on screen",varname)
 
-Varname=datatype(input("Content of statement") ----This statement used for taking input from
+Varname=datatype(input("Content of statement")) ----This statement used for taking input from
 
 user
 
