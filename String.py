@@ -71,6 +71,13 @@ Return :- Boolean Value True or False
 Parameter :- Not Required
 Return :- Boolean Value True or False
 
+13..Strip --- Remove Spaces & character 
+parameter requires
+return string
+
+14..Spilt --- remove inner space 
+require paramters
+return List Strings
 
 '''
 Email=input("Enter Your Email...")
