@@ -75,9 +75,13 @@ Return :- Boolean Value True or False
 parameter requires
 return string
 
-14..Spilt --- remove inner space 
+14..Spilt --- remove inner space & Spilt the string from spaces or ther
 require paramters
 return List Strings
+
+15..Join --- Join string
+return join string
+not takes parameter
 
 '''
 Email=input("Enter Your Email...")
