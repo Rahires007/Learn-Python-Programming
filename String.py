@@ -74,15 +74,23 @@ Return :- Boolean Value True or False
 13..Strip --- Remove Spaces & character 
 parameter requires
 return string
+Name="          Sahebrao     "
+print(Name.strip())
 
-14..Spilt --- remove inner space & Spilt the string from spaces or ther
+
+14..Spilt --- Spilt the string from spaces or ther
 require paramters
 return List Strings
+eg 
+Name="Sahebrao Shivaji Rahire"
+print(Name.spilt())
 
 15..Join --- Join string
 return join string
 not takes parameter
-
+eg 
+Name=["Sahebrao","Shivaji","Rahire"]
+print(" ".join(Name))
 '''
 Email=input("Enter Your Email...")
 print("Email :- ",Email)
